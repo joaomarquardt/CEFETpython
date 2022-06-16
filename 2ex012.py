@@ -1,0 +1,2 @@
+#12) Faça um programa que leia um número e diga se ele é divisível por 3 e por 7. Obs.: Não é permitido a utilização de operador lógico. Se o número for divisível por 21 ele então é divisível por 3 e por 7.
+#não entendi FLU
